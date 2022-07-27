@@ -1,7 +1,6 @@
 # Dragon Palace China
 
-in this restaurant we will serve you not only chinese dishes but all types of asian food and here is our menu
+**this is my wireframe for
+the restaurant**
 
-![menu](./my-images/asian%20restaurant.jpg)
-
-![menu2](./my-images/asian%20restaurant%202.jpg)
+![wireframe](./my-images/295495385_435376778514197_853456067408067871_n.png)
